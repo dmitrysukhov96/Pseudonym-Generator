@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pseudonym Generator</string>
+    <string name="generatePseudonym">Сгенерировать псевдоним!</string>
+    <string name="enterNameEtc">Введите имя и фамилию латиницей</string>
+    <string name="pseudonymeGenerator">Генератор псевдонимов</string>
+    <string name="numberOfVowels">Кол-во гласных букв: 0</string>
+    <string name="numberOfConsonants">Кол-во согласных букв: 0</string>
+</resources>
